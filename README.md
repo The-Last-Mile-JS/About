@@ -1,5 +1,7 @@
 # Information about Our Project
 
+A JavaScript learning platform for inmates in San Quentin State Prison. 
+
 ## Done:
 1. Code Grading (Running Time)
 2. File Architecture and Skeletal Framework
