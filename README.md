@@ -11,7 +11,7 @@ A JavaScript learning platform for inmates in San Quentin State Prison.
 2. Code Grading (Concision)
 3. Cheat Detection
 4. Local Testing
-5. Random Assignment
+5. Random Assignment (Needs Questions)
 6. Leaderboard and Peer View
 
 ## Need to be Done
