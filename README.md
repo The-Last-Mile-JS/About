@@ -10,13 +10,13 @@ A JavaScript learning platform for inmates in San Quentin State Prison.
 1. Curriculum (Questions, Solution Functions)
 2. Code Grading (Concision)
 3. Cheat Detection
+4. Local Testing
+5. Random Assignment
+6. Leaderboard and Peer View
 
 ## Need to be Done
 1. Backend Testing (Input & Output)
-2. Random Assignment
-3. Local Testing
 
 ## Additional
-1. Leaderboard and Peer View
-2. Progress Map
-3. Gamify the curriculum (Badges)
+1. Progress Map
+2. Gamify the curriculum (Badges)
